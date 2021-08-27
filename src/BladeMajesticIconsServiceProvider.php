@@ -19,7 +19,6 @@ final class BladeMajesticIconsServiceProvider extends ServiceProvider
 
             $factory->add('majestic-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeMajesticIconsServiceProvider extends ServiceProvider
             ], 'blade-majestic-icons-config');
         }
     }
-
 }
