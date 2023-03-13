@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/1.2.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/2.0.0...HEAD)
+
+## [2.0.0](https://github.com/codeat3/blade-majestic-icons/compare/1.2.0...2.0.0) - 2023-03-13
+
+### What's Changed
+
+- upgrade github action to php82 by @swapnilsarwe in https://github.com/codeat3/blade-majestic-icons/pull/3
+- Auto update github action with icon sets  by @swapnilsarwe in https://github.com/codeat3/blade-majestic-icons/pull/4
+
+**Full Changelog**: https://github.com/codeat3/blade-majestic-icons/compare/1.2.0...2.0.0
 
 ## [1.2.0](https://github.com/codeat3/blade-majestic-icons/compare/1.1.0...1.2.0) - 2023-02-18
 
