@@ -50,19 +50,19 @@ php artisan vendor:publish --tag=blade-majestic-icons-config
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
 
 ```blade
-<x-majestic-academic-cap-line/>
+<x-majestic-cookie-line/>
 ```
 
 You can also pass classes to your icon components:
 
 ```blade
-<x-majestic-academic-cap-line class="w-6 h-6 text-gray-500"/>
+<x-majestic-cookie-line class="w-6 h-6 text-gray-500"/>
 ```
 
 And even use inline styles:
 
 ```blade
-<x-majestic-academic-cap-line style="color: #555"/>
+<x-majestic-cookie-line style="color: #555"/>
 ```
 
 The solid icons can be referenced like this by using suffix `-solid`:
@@ -72,7 +72,7 @@ The solid icons can be referenced like this by using suffix `-solid`:
 
 The line icons can be referenced like this by using suffix `-line`:
 ```blade
-<x-majestic-academic-cap-line/>
+<x-majestic-cookie-line/>
 ```
 
 ### Raw SVG Icons
@@ -86,7 +86,7 @@ php artisan vendor:publish --tag=blade-majestic-icons --force
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-majestic-icons/academic-cap-line.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-majestic-icons/cookie-line.svg') }}" width="10" height="10"/>
 ```
 
 ## Changelog
