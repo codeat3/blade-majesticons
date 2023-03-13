@@ -67,7 +67,7 @@ And even use inline styles:
 
 The solid icons can be referenced like this by using suffix `-solid`:
 ```blade
-<x-majestic-academic-cap-solid/>
+<x-majestic-cookie-solid/>
 ```
 
 The line icons can be referenced like this by using suffix `-line`:

@@ -19,5 +19,5 @@ php artisan vendor:publish --tag=blade-majestic-icons --force
 The new way to reference them is:
 
 ```blade
-<img src="{{ asset('vendor/blade-majestic-icons/api.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-majestic-icons/cookie-line.svg') }}" width="10" height="10"/>
 ```
