@@ -33,6 +33,10 @@ composer require codeat3/blade-majestic-icons
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 
+## Note
+
+When you upgrade to `2.0` of this package, most of the icons which were available in `1.0` won't be available. This is due to the deletion of icons in the original repository. Kindly make note of it. The commit can be found on the original repo at this link with the commit description as [initial commit for v2](https://github.com/halfmage/majesticons/commit/4417a83f6869615bfa2447df4f461de95530b5c6)
+
 ## Blade Icons
 
 Blade Majestic Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality. We also recommend to [enable icon caching](https://github.com/blade-ui-kit/blade-icons#caching) with this library.
