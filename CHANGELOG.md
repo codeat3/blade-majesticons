@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/2.0.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/2.1.0...HEAD)
+
+## [2.1.0](https://github.com/codeat3/blade-majestic-icons/compare/2.0.0...2.1.0) - 2024-02-29
+
+### What's Changed
+
+* Laravel 11 support by @swapnilsarwe in https://github.com/codeat3/blade-majesticons/pull/11
+
+**Full Changelog**: https://github.com/codeat3/blade-majesticons/compare/2.0.0...2.1.0
 
 ## [2.0.0](https://github.com/codeat3/blade-majestic-icons/compare/1.2.0...2.0.0) - 2023-03-13
 
