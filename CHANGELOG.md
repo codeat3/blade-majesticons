@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/2.2.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-majestic-icons/compare/2.3.0...HEAD)
+
+## [2.3.0](https://github.com/codeat3/blade-majestic-icons/compare/2.2.0...2.3.0) - 2026-03-22
+
+### What's Changed
+
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-majesticons/pull/13
+
+**Full Changelog**: https://github.com/codeat3/blade-majesticons/compare/2.2.0...2.3.0
 
 ## [2.2.0](https://github.com/codeat3/blade-majestic-icons/compare/2.1.0...2.2.0) - 2025-02-26
 
